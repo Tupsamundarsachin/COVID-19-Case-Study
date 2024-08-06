@@ -3,7 +3,7 @@ This project presents an in-depth analysis of the COVID-19 pandemic and its effe
 
 
 PROBLEM STATEMENT:
-This project aimed to analyse the impact and trends, patterns of the COVID-19 virus in each contry and all over the world. it is very crucial to know the patterns and trends of this virus for governments, health organizations, and the public to make informed decisions and implement effective measures. it is very essential to know:
+This project aimed to analyze the impact and trends, patterns of the COVID-19 virus in each country and all over the world. It is crucial to know the patterns and trends of this virus so that governments, health organizations, and the public can make informed decisions and implement effective measures. it is very essential to know:
 Total cases in each country and globally
 Daily active cases
 Daily new cases
@@ -16,7 +16,7 @@ Identification of critical and safe zones in each country and globally
 Countries with the highest COVID-19 cases
 
 
-APPROCH:
+APPROACH:
 To address the problem statement, the following steps were taken:
 1. Data Collection: Gathered COVID-19 data from reliable sources, including total cases, deaths, recoveries, and daily updates.
 2. Data Cleaning: Processed and cleaned the data to ensure accuracy and consistency.
