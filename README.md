@@ -34,5 +34,10 @@ To address the problem statement, the following steps were taken:
 4. Analysis and Insights: Analyzed the visualizations to draw insights and understand the impact of the pandemic on different regions and over time.
 
 
+
+https://github.com/user-attachments/assets/1e1e7fcc-d257-4738-b72b-e77bf87b3493
+
+
+
 CONCLUSION:
 The COVID-19 Analysis Dashboard provides a comprehensive view of the pandemic's impact, offering valuable insights into its spread, severity, and recovery trends. By visualizing key metrics, the dashboard helps stakeholders make informed decisions, implement effective measures, and better understand the global situation. This project underscores the importance of data analysis and visualization in addressing public health crises and supporting global health initiatives.
